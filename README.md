@@ -10,6 +10,7 @@ it takes inspiration from:
 * programming
 * chinese numbering
 * german word combination
+* arabic numerals
 
 # Alphabet
 
@@ -41,7 +42,7 @@ Words are formed out of: 1, 2, or 3 characters in a square pattern.
 
 # Numbers
 
-- -- --- +
+0 - -- --- box x x- x-- x--- xbox 
 
 # Sentence ordering
 
